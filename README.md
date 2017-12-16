@@ -11,7 +11,7 @@ cd movie-wallpaper
 # Install packages
 npm install
 
-# Create folder for wallpaper
+# Create folder for wallpapers
 mkdir wallpaper
 
 # Start script
