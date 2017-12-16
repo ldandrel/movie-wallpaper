@@ -17,7 +17,7 @@ while (i < limit) {
 
         let options = {
             url: image,
-            dest: './img/'                  
+            dest: './wallpaper/'                  
         }
 
         download.image(options)
